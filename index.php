@@ -8,6 +8,6 @@
 <body>
    <p> Benito, John Michael F.
     <p>32-ITE-03
-        <Dagupan city>
+        <p> Dagupan city
 </body>
 </html>
