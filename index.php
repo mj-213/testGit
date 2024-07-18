@@ -6,6 +6,8 @@
     <title>Hello world </title>
 </head>
 <body>
-    Hello world
+   <p> Benito, John Michael F.
+    <p>32-ITE-03
+        <Dagupan city>
 </body>
 </html>
